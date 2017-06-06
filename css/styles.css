@@ -1,4 +1,16 @@
+#mainnav {
+
+}
+
+#mainnav, h1 {
+	font-family: 'Droid Serif', serif;
+	font-size: 1.5em;
+}
 #mainphoto {
 	width: 115px;
 	height: 200px;
+}
+
+body {
+	font-family: 'Droid Sans', sans-serif;
 }
