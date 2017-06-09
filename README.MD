@@ -31,7 +31,7 @@ If you would like to have your work reviewed, push up the branch (`git push orig
 
 Create a page for your own personal branding that can be treated as the beginning of your portfolio. You should focus on HTML structure and syntax with basic layout using styles.
 
-
+		<		<		<		<
 ### Content and Technical Requirements
 1. Title - make it meaningful.
 1. Header element `<h1>` - This is the main headline; include your name and what this page is.
