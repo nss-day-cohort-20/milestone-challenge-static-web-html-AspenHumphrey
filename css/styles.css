@@ -1,12 +1,13 @@
-#mainnav {
+.mainnav {
 
 }
 
-#mainnav, h1 {
+.mainnav, h1 {
 	font-family: 'Droid Serif', serif;
 	font-size: 1.5em;
 }
-#mainphoto {
+
+.mainphoto {
 	width: 115px;
 	height: 200px;
 }
