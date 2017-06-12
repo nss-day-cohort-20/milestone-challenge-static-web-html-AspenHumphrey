@@ -1,6 +1,6 @@
 .mainnav {
-
-}
+ 	text-align: center;
+ }
 
 .mainnav, h1 {
 	font-family: 'Droid Serif', serif;
@@ -8,14 +8,37 @@
 }
 
 .mainphoto {
-	width: 115px;
-	height: 200px;
+	width: 230px;
+	height: 400px;
+	border-radius: 14px;
 }
 
 body {
 	font-family: 'Droid Sans', sans-serif;
 }
 
-.fa {
-	color: black;
+.mainfooter ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.mainfooter ul li {
+	display: inline;
+
+}
+
+.mainfooter ul li a {
+	justify-content: center;
+}
+
+.icon{
+	padding: 20px;
+    width: 30px;
+    height: 30px;
+
+}
+
+.icon:hover {
+	opacity: 0.8;
 }
