@@ -5,6 +5,9 @@
 .mainnav, h1 {
 	font-family: 'Droid Serif', serif;
 	font-size: 1.5em;
+	/*color: #9F956C;*/
+	color: #87734D;
+
 }
 
 .mainphoto {
@@ -15,6 +18,20 @@
 
 body {
 	font-family: 'Droid Sans', sans-serif;
+	background-color: #ECEBE4;
+	/*background-color: #EFD2CB;*/
+	/*color: #584D3D;*/
+	color: #4F4536;
+
+}
+
+.aspenbio {
+	font-size: 1.2em;
+	text-align: center;
+}
+
+.blogposts {
+	
 }
 
 .mainfooter ul {
