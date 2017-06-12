@@ -22,6 +22,9 @@ function printBlogPost() {
 }
 
 
+let blogPosts = ["firstPost", "secondPost"];
+
+
 
 
 
