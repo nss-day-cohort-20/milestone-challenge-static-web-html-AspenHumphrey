@@ -1,0 +1,57 @@
+.mainnav {
+ 	text-align: center;
+ }
+
+.mainnav, h1 {
+	font-family: 'Droid Serif', serif;
+	font-size: 1.5em;
+	/*color: #9F956C;*/
+	color: #87734D;
+
+}
+
+.mainphoto {
+	width: 230px;
+	height: 400px;
+	border-radius: 14px;
+}
+
+body {
+	font-family: 'Droid Sans', sans-serif;
+	background-color: #ECEBE4;
+	/*background-color: #EFD2CB;*/
+	/*color: #584D3D;*/
+	color: #4F4536;
+
+}
+
+.aspenbio {
+	font-size: 1.2em;
+	text-align: center;
+}
+
+.mainfooter ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.mainfooter ul li {
+	display: inline;
+
+}
+
+.mainfooter ul li a {
+	justify-content: center;
+}
+
+.icon{
+	padding: 20px;
+    width: 30px;
+    height: 30px;
+
+}
+
+.icon:hover {
+	opacity: 0.8;
+}
